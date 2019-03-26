@@ -25,6 +25,7 @@ public class LevelManager : MonoBehaviour
         pauseMenu.SetActive(false);
         endMenu.SetActive(false);
         startTime = Time.time;
+
     }
 
     private void Update()
